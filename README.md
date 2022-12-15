@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/1D-BSl2ZqnwBk57XLr6KIaQ0x0PuXoYCt/view?usp=share_link...)]
+![HeaderBanner](https://github.com/Soumya09/headerbanner.png)
 <h1 align="center">Hi 👋, I'm Soumyadarshee Bal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/188684782/original/c487f063a943e3c732a496d0a7827d208dca9eb5.jpg">
