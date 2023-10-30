@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 💬 Ask me about **HTML,CSS,C++**
+- 💬 Ask me about **C++,HTML,CSS,JavaScript,ReactJS**
 
 - 📫 How to reach me **soumyadarshee07@gmail.com**
 
